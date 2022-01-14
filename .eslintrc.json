@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "next",
+    "next/core-web-vitals",
+    "prettier",
+    "next/babel"
+  ]
+}
+// "next","prettier","next/babel"を追加でエラーを消す
